@@ -41,7 +41,7 @@ A selection of my work is available on **Google Scholar**, including research in
 > _"Football for life, Manchester United in blood."_ ❤️🖤
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Football Animation"/>
+  <img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpqNmhwbHY3ZmJ6NDI2dTFraGxodWhzenVjaHZ5dGIxcW1wY3g4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3UEMk24Ijpmfu/giphy.gif)" width="200" alt="Football Animation"/>
 </p>
 
 ---
