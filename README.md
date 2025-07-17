@@ -1,11 +1,14 @@
-# 👋 Hi, I'm Aswin
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aswin;Researcher+at+TU+Dresden;AI+%E2%9A%9B+Networking+%3D+Future" alt="Typing SVG" />
+</p>
 
-🎓 Researcher in the Telekom Department at **TU Dresden**, working at the intersection of **Artificial Intelligence** and **Communication Networking**.
+---
+
+🎓 Researcher in the Telekom Department at **TU Dresden**, working at the intersection of **Artificial Intelligence** and **Computer Networking**.
 
 I specialize in applying **machine learning** and **deep learning** techniques to improve networking systems—particularly around traffic prediction, anomaly detection, and intelligent routing.
 
 ---
-
 ## 💡 Current Focus
 
 🔬 Exploring **AI for Networking** – using neural networks to build smarter, adaptive communication systems. For context, see this AWS blog post: [*Networks for AI and AI for Networks – AWS and Orange's journey*](https://aws.amazon.com/blogs/industries/networks-for-ai-and-ai-for-networks-aws-and-oranges-journey/).
