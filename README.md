@@ -8,6 +8,7 @@
 
 I specialize in applying **machine learning** and **deep learning** techniques to improve networking systems—particularly around traffic prediction, anomaly detection, and intelligent routing.
 
+📨 Connect with me on [LinkedIn](https://www.linkedin.com/in/aswin-p-j/)  
 ---
 ## 💡 Current Focus
 
@@ -28,14 +29,6 @@ A selection of my work is available on **Google Scholar**, including research in
 - **Languages**: Python  
 - **Frameworks**: TensorFlow, Flask, Django  
 - **Domains**: Machine Learning, Deep Learning, AI for Networking
-
----
-
-## 📫 Get in Touch
-
-- 🌐 Website: [aswinpj.pythonanywhere.com](http://aswinpj.pythonanywhere.com/)  
-- 📧 Email: [aswinpjagadeesh@gmail.com](mailto:aswinpjagadeesh@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/aswin-p-j](https://www.linkedin.com/in/aswin-p-j/)
 
 ---
 
