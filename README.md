@@ -4,7 +4,7 @@
 
 ---
 
-🎓 Researcher in the Telekom Department at **TU Dresden**, working at the intersection of **Artificial Intelligence** and **Computer Networking**.
+🎓 Researcher in the Telekom Department at **TU Dresden**, working at the intersection of **Artificial Intelligence** and **Communication Networking**.
 
 I specialize in applying **machine learning** and **deep learning** techniques to improve networking systems—particularly around traffic prediction, anomaly detection, and intelligent routing.
 
